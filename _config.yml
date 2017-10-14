@@ -55,7 +55,7 @@ defaults:
       comments: "true"
 
 # Serving
-url: "localhost:4000"
+url: "https://wayne-ennis.github.io"
 baseurl: ""
 
 # Includes
